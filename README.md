@@ -20,7 +20,7 @@
 
 ## fiori-sample-app
 
-Basic Fiori Application.
+Fiori Application for Transpetro.
 
 ### Starting the generated app
 
