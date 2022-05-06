@@ -20,7 +20,7 @@
 
 ## fiori-sample-app
 
-A Fiori application.
+Basic Fiori Application.
 
 ### Starting the generated app
 
